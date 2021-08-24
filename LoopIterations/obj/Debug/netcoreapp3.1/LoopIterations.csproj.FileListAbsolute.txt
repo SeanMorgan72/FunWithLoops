@@ -1,0 +1,13 @@
+/Users/seanmorgan/repos/LoopIterations/LoopIterations/obj/Debug/netcoreapp3.1/LoopIterations.csproj.AssemblyReference.cache
+/Users/seanmorgan/repos/LoopIterations/LoopIterations/obj/Debug/netcoreapp3.1/LoopIterations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorgan/repos/LoopIterations/LoopIterations/obj/Debug/netcoreapp3.1/LoopIterations.AssemblyInfoInputs.cache
+/Users/seanmorgan/repos/LoopIterations/LoopIterations/obj/Debug/netcoreapp3.1/LoopIterations.AssemblyInfo.cs
+/Users/seanmorgan/repos/LoopIterations/LoopIterations/obj/Debug/netcoreapp3.1/LoopIterations.csproj.CoreCompileInputs.cache
+/Users/seanmorgan/repos/LoopIterations/LoopIterations/bin/Debug/netcoreapp3.1/LoopIterations.deps.json
+/Users/seanmorgan/repos/LoopIterations/LoopIterations/bin/Debug/netcoreapp3.1/LoopIterations.runtimeconfig.json
+/Users/seanmorgan/repos/LoopIterations/LoopIterations/bin/Debug/netcoreapp3.1/LoopIterations.runtimeconfig.dev.json
+/Users/seanmorgan/repos/LoopIterations/LoopIterations/bin/Debug/netcoreapp3.1/LoopIterations.dll
+/Users/seanmorgan/repos/LoopIterations/LoopIterations/bin/Debug/netcoreapp3.1/LoopIterations.pdb
+/Users/seanmorgan/repos/LoopIterations/LoopIterations/obj/Debug/netcoreapp3.1/LoopIterations.dll
+/Users/seanmorgan/repos/LoopIterations/LoopIterations/obj/Debug/netcoreapp3.1/LoopIterations.pdb
+/Users/seanmorgan/repos/LoopIterations/LoopIterations/obj/Debug/netcoreapp3.1/LoopIterations.genruntimeconfig.cache
